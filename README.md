@@ -1,2 +1,2 @@
 # HeadStartSSIS
-# Code for application located in src
+# Code for application located in HeadStartSSIS/src/main/java/com/example/headstartstudentsignin/
